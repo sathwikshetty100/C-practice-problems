@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631531429 source:d:\new folder\uppertolower\main.c
+	"op.h"
+
+1631531436 d:\new folder\uppertolower\op.h
+	<stdio.h>
+	<string.h>
+
