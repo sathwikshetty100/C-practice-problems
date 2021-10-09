@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632312562 source:d:\new folder\leap_year\main.c
+	<stdio.h>
+	<assert.h>
+
+1632312571 source:d:\new folder\leap_year\leap.c
+	<stdio.h>
+	"leap.h"
+
+1632312562 d:\new folder\leap_year\leap.h
+
