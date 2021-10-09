@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632741067 source:d:\new folder\d3_p5\p5.c
+	<stdio.h>
+	"p5.h"
+
+1632741067 d:\new folder\d3_p5\p5.h
+
+1632741156 source:d:\new folder\d3_p5\main.c
+	<stdio.h>
+	"p5.h"
+

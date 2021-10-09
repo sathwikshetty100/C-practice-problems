@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632742257 source:d:\new folder\d3_p6\p6.c
+	<stdio.h>
+	"p6.h"
+
+1632742257 d:\new folder\d3_p6\p6.h
+

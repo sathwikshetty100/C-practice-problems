@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632752194 source:d:\new folder\d3_p7\p7.c
+	<stdio.h>
+	"p7.h"
+	<conio.h>
+
+1632752194 d:\new folder\d3_p7\p7.h
+
