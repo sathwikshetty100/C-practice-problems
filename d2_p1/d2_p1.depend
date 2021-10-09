@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632394240 source:d:\new folder\d2_p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"p1.h"
+
+1632394240 d:\new folder\d2_p1\p1.h
+
+1632394273 source:d:\new folder\d2_p1\p1.c
+	<stdio.h>
+	"p1.h"
+
