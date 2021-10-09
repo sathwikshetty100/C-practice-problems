@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632313731 source:d:\new folder\left_shift\left.c
+
+1632313476 d:\new folder\left_shift\left.h
+
+1632313775 source:d:\new folder\left_shift\main.c
+	<stdio.h>
+
