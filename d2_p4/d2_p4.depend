@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632398374 source:d:\new folder\d2_p4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"p4.h"
+
+1632398041 d:\new folder\d2_p4\p4.h
+
+1632398323 source:d:\new folder\d2_p4\p4.c
+	<stdio.h>
+	"p4.h"
+

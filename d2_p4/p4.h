@@ -1,0 +1,2 @@
+int pallindrome(int n);
+
