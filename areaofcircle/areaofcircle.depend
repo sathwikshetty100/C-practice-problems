@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631539974 source:d:\new folder\areaofcircle\main.c
+	"area.h"
+
+1631539974 d:\new folder\areaofcircle\area.h
+	<stdio.h>
+	<math.h>
+
