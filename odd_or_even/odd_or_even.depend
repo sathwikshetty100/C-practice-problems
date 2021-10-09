@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632311869 source:d:\new folder\odd_or_even\odd.c
+	<stdio.h>
+	"odd.h"
+
+1632311869 d:\new folder\odd_or_even\odd.h
+
