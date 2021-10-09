@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632394900 source:d:\new folder\d2_p2\p2.c
+	<stdio.h>
+	"p2.h"
+
+1632394748 d:\new folder\d2_p2\p2.h
+
+1632394831 source:d:\new folder\d2_p2\main.c
+	<stdio.h>
+	<assert.h>
+	"p2.h"
+
