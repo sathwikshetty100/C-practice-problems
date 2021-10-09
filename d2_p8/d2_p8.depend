@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632722486 source:d:\new folder\d2_p8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"p8.h"
+
+1632722486 d:\new folder\d2_p8\p8.h
+
+1632722508 source:d:\new folder\d2_p8\p8.c
+	<stdio.h>
+	"p8.h"
+

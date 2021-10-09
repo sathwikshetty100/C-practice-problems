@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632735083 source:d:\new folder\d2_p11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"p11.h"
+	<assert.h>
+
+1632735083 d:\new folder\d2_p11\p11.h
+
+1632735136 source:d:\new folder\d2_p11\p11.c
+	<stdio.h>
+	<conio.h>
+	"p11.h"
+
