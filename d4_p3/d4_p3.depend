@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632812424 source:d:\new folder\d4_p3\p3.c
+	<stdio.h>
+	"p3.h"
+
+1632812332 d:\new folder\d4_p3\p3.h
+

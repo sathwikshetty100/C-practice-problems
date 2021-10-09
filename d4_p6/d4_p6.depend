@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1632815754 source:d:\new folder\d4_p6\p6.c
+
+1632815785 source:d:\new folder\d4_p6\main.c
+	<stdio.h>
+	<assert.h>
+	"p6.h"
+
+1632815754 d:\new folder\d4_p6\p6.h
+
